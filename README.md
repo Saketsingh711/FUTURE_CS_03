@@ -10,10 +10,10 @@ The primary goal was to act as a Security Consultant to:
 * Provide business impact analysis and technical remediation steps for identified risks.
 
 ## 🛠️ Toolset
-* [cite_start]**Target API:** [JSONPlaceholder](https://jsonplaceholder.typicode.com) [cite: 1]
-* [cite_start]**API Testing:** **Postman** (Request construction, Header analysis, Response inspection) [cite: 2]
-* [cite_start]**Reconnaissance:** **Browser DevTools** (Documentation and Route mapping) [cite: 2]
-* [cite_start]**Framework:** **OWASP API Security Top 10** [cite: 3]
+* **Target API:** [JSONPlaceholder](https://jsonplaceholder.typicode.com) [cite: 1]
+* **API Testing:** **Postman** (Request construction, Header analysis, Response inspection) [cite: 2]
+* **Reconnaissance:** **Browser DevTools** (Documentation and Route mapping) [cite: 2]
+* **Framework:** **OWASP API Security Top 10** [cite: 3]
 
 ## 🔍 Key Findings Summary
 | Risk Level | Vulnerability | OWASP Category |
@@ -24,10 +24,8 @@ The primary goal was to act as a Security Consultant to:
 | 🔵 **Low** | **Security Misconfiguration** | API7:2023 |
 
 ## 📁 Repository Contents
-* **`Saket_Singh_Task3_Report.pdf`**: The full technical report including executive summary and remediation roadmap.
+* **`API Report Analysis.pdf`**: The full technical report including executive summary and remediation roadmap.
 * **`/evidence`**: A gallery of Postman screenshots proving the successful identification of vulnerabilities.
 
 ## 👤 Author
-**Saket Singh** [cite: 4]
-SYBCA | Roll No. 62 | Division D [cite: 4]
-Cyber Security Enthusiast & Developer
+**Saket Singh**
